@@ -1,0 +1,15 @@
+/build
+/html
+/log
+/node_modules
+
+/site
+!/site/favicon.ico
+!/site/image
+!/site/javascript
+!/site/style
+!/site/style
+
+*.md~
+*.src.md
+*.DS_store
